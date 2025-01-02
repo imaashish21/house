@@ -3,6 +3,13 @@
   padding: 0;
   box-sizing: border-box;
 }
+.container {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .roof {
   width: 2px;
   height: 0;
